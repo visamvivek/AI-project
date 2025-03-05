@@ -1,0 +1,37 @@
+#logo{
+    width: 30px ;
+    height: 30px ;
+}
+
+body{
+    background-color:  #780606 !important;
+    color: white !important;
+}
+
+#donote{
+    color: white !important;
+
+}
+
+.testimonial-card {
+    background: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+#fillup{
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.form-control, .form-select{
+    width: 31% !important;
+    margin-left: 35%;
+}
